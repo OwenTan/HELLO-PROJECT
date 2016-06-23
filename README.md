@@ -9,7 +9,7 @@
 ====
   1. 打开10.1寸触摸屏，进入主界面
 
-    ![jack](/Users/apple/vimwiki/image/4.png "jack")
+    ![jack](./d1659f0d.jpg "jack")
 
 ``` java
 if(){
